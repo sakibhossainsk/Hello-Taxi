@@ -1,0 +1,283 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*common css start*/
+body{ 
+    padding-top: 96px;  
+}
+.c_padd{
+    padding: 20px 0 30px;
+} 
+/*common css end*/
+/*header start*/
+header {
+    padding: 10px 0;
+}
+.h_item {
+    padding-left: 0px;
+}
+/*banner start*/
+.b_h1{
+    font-size: 24px;
+}
+.b_h2 {
+    margin: 20px 0;
+    padding: 0px 0px;
+    font-size: 20px;
+}
+.b_p {
+    padding: 0px 0px;
+}
+.c_btn {
+    padding: 8px 15px;
+    font-size: 16px;
+    border-radius: 20px;
+}
+.m_btn {
+    margin-bottom: 30px;
+}
+/*about start*/
+.a_image img {
+    margin-top: 100px;
+}
+.a_text {
+    text-align: center;
+}
+.a_h1{
+    font-size: 24px;
+}
+.a_h2 {  
+margin: 10px 0; 
+    font-size: 20px;
+}
+/*service start*/
+.s_item {
+    margin-bottom: 20px;
+    padding: 20px 30px;
+}
+.s_h2 {
+    font-size: 20px;
+}
+.s_h1 {
+    margin-bottom: 25px;
+    font-size: 24px;
+}
+.s_icon i {   
+    margin: -26px 0 0px 470px;
+}
+.s_h3 {
+    font-size: 20px;
+}
+/*feature start*/
+.f_item {      
+    margin-top: 15px;
+    padding: 20px 40px;
+}
+.f_h2 {
+    margin-top: 15px;    
+    font-size: 18px;
+}
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*common css start*/
+body{
+    padding-top: 96px;  
+}
+.c_padd{
+    padding: 25px 0 40px;
+} 
+/*common css end*/
+/*header start*/
+header {
+    padding: 10px 0;
+}
+.h_item {
+    padding-left: 0px;
+}
+/*banner start*/
+.b_h1{
+    font-size: 24px;
+}
+.b_h2 {
+    margin: 20px 0;
+    padding: 0px 0px;
+    font-size: 20px;
+}
+.b_p {
+    padding: 0px 0px;
+}
+.c_btn {
+    padding: 8px 15px;
+    font-size: 16px;
+    border-radius: 20px;
+}
+.m_btn {
+    margin-bottom: 30px;
+}
+/*about start*/
+.a_image img {
+    margin-top: 100px;
+}
+.a_text {
+    text-align: center;
+}
+.a_h1{
+    font-size: 24px;
+}
+.a_h2 {  
+margin: 10px 0; 
+    font-size: 20px;
+}
+/*service start*/
+.s_item {
+    margin-bottom: 20px;
+    padding: 20px 30px;
+}
+.s_h2 {
+    font-size: 20px;
+}
+.s_h1 {
+    margin-bottom: 25px;
+    font-size: 24px;
+}
+.s_icon i {   
+    margin: -26px 0 0px 375px;
+}
+.s_h3 {
+    font-size: 20px;
+}
+/*feature start*/
+.f_item {    
+    margin-top: 15px;
+    padding: 5px 0px;
+}
+.f_h2 {
+    margin-top: 15px;    
+    font-size: 18px;
+}
+}
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /*common css start*/
+body{
+    padding-top: 96px;  
+}
+.c_padd{
+    padding: 30px 0 50px;
+} 
+/*common css end*/
+/*header start*/
+header {
+    padding: 10px 0;
+}
+.h_item {
+    padding-left: 0px;
+}
+/*banner start*/
+.b_h1{
+    font-size: 26px;
+}
+.b_h2 {
+    margin: 30px 0;
+    padding: 0px 0px;
+    font-size: 23px;
+}
+.b_p {
+    padding: 0px 0px;
+}
+.c_btn {
+    padding: 8px 15px;
+    font-size: 16px;
+    border-radius: 20px;
+}
+.m_btn {
+    margin-bottom: 60px;
+}
+/*about start*/
+.a_image img {
+    margin-top: 100px;
+}
+.a_h1{
+    font-size: 26px;
+}
+.a_h2 {  
+margin: 10px 0; 
+    font-size: 21px;
+}
+/*service start*/
+.s_h2 {
+    font-size: 21px;
+}
+.s_h1 {
+    margin-bottom: 30px;
+    font-size: 26px;
+}
+.s_icon i {
+    margin: -20px 0 0px 295px;
+}
+.s_h3 {
+    font-size: 20px;
+}
+/*feature start*/
+.f_item {    
+    margin-top: 15px;
+    padding: 5px 0px;
+}
+.f_h2 {
+    margin-top: 15px;    
+    font-size: 18px;
+}
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*common css start*/
+body{
+    padding-top: 98px;  
+}
+.c_padd{
+    padding: 40px 0 55spx;
+} 
+/*common css end*/
+/*header start*/
+.h_item {
+    padding-left: 232px;
+}
+/*banner start*/
+.b_h2 {
+    padding: 0px 208px;
+}
+.b_p {
+    padding: 0px 142px;
+}
+.c_btn {
+    padding: 8px 15px;
+    font-size: 16px;
+    border-radius: 20px;
+}
+/*about start*/
+.a_h2 {   
+    font-size: 21px;
+}
+/*service start*/
+.s_icon i {
+    margin: -20px 0 0px 295px;
+}
+.s_h3 {
+    font-size: 20px;
+}
+/*feature start*/
+.f_item {
+    padding: 10px 3px;
+}
+.f_h2 {    
+    font-size: 18px;
+} 
+
+}
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+	
+}
+/* Extra Extra large devices (large desktops, 1400px and up)*/ 
+@media (min-width: 1400px) {  
+}
